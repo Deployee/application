@@ -1,6 +1,5 @@
 <?php
 
-
 namespace Deployee\Components\Application;
 
 use Deployee\Components\Container\ContainerInterface;

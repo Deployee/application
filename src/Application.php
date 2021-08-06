@@ -1,6 +1,5 @@
 <?php
 
-
 namespace Deployee\Components\Application;
 
 
